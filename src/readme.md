@@ -1,0 +1,1 @@
+Preact es una biblioteca que te permite construir componentes UI interactivos para la web. Si deseas crear características interactivas en tu sitio web utilizando JavaScript, es posible que prefieras usar su formato de componentes en lugar de usar directamente las API del navegador.
